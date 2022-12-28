@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "f62dda7101e60a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b5236b1ec1841b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b0529034e0bbfcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7e363011d501a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Tree/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cde9dfd50a9ce7d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b20c7330cca6eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/Queue & Stack/Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6972936e27d9ffe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/Queue & Stack/Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28575481ed41a98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/Array/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de33f4a5a0c85635",
+    "type": "split",
+    "children": [
+      {
+        "id": "f86e28c00aee144b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e84fe8b26e9a94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52701fb620bd656d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac9046ff9f97da61",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff4611774df55ec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "27084caa4e2b04d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8c555a62669cd5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structure/Array/Array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b944c8b2b04db12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structure/Array/Array.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c621971a5914f85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e503c1a3dc284233",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structure/Array/Array.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "28575481ed41a98e",
+  "lastOpenFiles": [
+    "Data Structure/未命名.md",
+    "Data Structure/未命名 1.md",
+    "Data Structure/Queue & Stack/Queue.md",
+    "Data Structure/Queue & Stack/Stack.md",
+    "LeetCode/Tree/未命名.md",
+    "未命名.md"
+  ]
+}
